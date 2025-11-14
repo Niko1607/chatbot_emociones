@@ -227,6 +227,9 @@ Visita 🌐 [http://127.0.0.1:8000/api/chat/](http://127.0.0.1:8000/api/chat/)
 🔗 GitHub: [https://github.com/Niko1607](https://github.com/Niko1607)
 
 ---
+## 👀 ¿Quieres ver el proyecto desplegado?
+
+Accede aquí: [frontend-vercel-mm6cr6hwo-niko2745s-projects.vercel.app](https://frontend-vercel-mm6cr6hwo-niko2745s-projects.vercel.app)
 
 ## 📜 Licencia
 
