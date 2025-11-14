@@ -20,3 +20,10 @@ Thumbs.db
 
 # Carpeta de VS Code
 .vscode/
+
+*.log
+*.sqlite3
+.env
+.DS_Store
+
+
