@@ -14,7 +14,6 @@ db.sqlite3
 staticfiles/
 *.log
 
-
 # Archivos del sistema
 .DS_Store
 Thumbs.db
